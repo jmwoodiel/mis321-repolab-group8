@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\bin\Debug\net7.0\mis321-repolab-group8.exe
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\bin\Debug\net7.0\mis321-repolab-group8.deps.json
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\bin\Debug\net7.0\mis321-repolab-group8.runtimeconfig.json
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\bin\Debug\net7.0\mis321-repolab-group8.dll
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\bin\Debug\net7.0\mis321-repolab-group8.pdb
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.dll
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\refint\mis321-repolab-group8.dll
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.pdb
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\mis321-repolab-group8.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\mis321\lab\mis321-repolab-group8\obj\Debug\net7.0\ref\mis321-repolab-group8.dll
